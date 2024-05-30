@@ -20,6 +20,6 @@
 
 
 <div align="center" style="margin: 20px auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=minalin9&show_icons=true&theme=dracula" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=minalin9&show_icons=true&theme=dracula" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minalin9&layout=compact" />
 </div>
